@@ -1,0 +1,34 @@
+#main-navbar{
+	background-color: rgb(160, 20, 79);
+	overflow: hidden;
+}
+#navbar-container{
+	width: 100%;
+	text-align: center;
+}
+#main-navbar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: top;
+}
+#main-navbar ul li{
+	float: left;
+}
+#main-navbar ul li a{
+	display: block;
+	padding: 10px 20px;
+	color: white;
+	text-decoration: none;
+	font-family: ;
+}
+#main-navbar ul li a:hover{
+	background-color: #cb276c;
+	color: yellow;
+	text-transform: uppercase;
+}
+#main-navbar #onpage{
+	background-color: #da3347;
+
+}
