@@ -54,6 +54,10 @@
 	font-size: 2em;
 
 }
+#htitle{
+	color: #da3347;
+	font-size: 1.3em;
+}
 main{
 	width: 100%;
 	float: left;
@@ -127,6 +131,28 @@ p{
 	width: 100%;
 
 
+}
+#target3{
+	float: left;
+	width: 52%;
+	background-image: url(../images/pexels.jpeg);
+	background-size: 100% 100%;
+	margin: 0 3% 0 5%;
+	outline: 2px dashed #0053ae;
+}
+#extras{
+	float: left;
+	width: 35%;
+	margin: 0 5% 0 0;
+	background-color: #FFA500;
+	outline: 2px dashed #dd0009;
+}
+#extras img{
+	width: 100%;
+}
+#extras iframe{
+	width: 100%;
+	height: 200px;
 }
 #footer{
 	clear: both;
